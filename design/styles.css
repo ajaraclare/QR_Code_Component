@@ -1,0 +1,58 @@
+@font-face {
+    font-family: outfit;
+    src: url(../../recipe-page-main/assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    
+}
+
+
+img{
+    width: 90%;
+    height: 90%;
+    display: block;
+    margin:auto;
+/* The display:block and margin:auto properties are used in combination to center items within a container or on a page */
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+
+div{
+    text-align: center;
+    
+}
+
+
+section{
+    background-color: hsl(0, 0%, 100%);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 50px;
+    border-radius: 20px 20px 20px 20px;
+    
+    
+    
+}
+
+.text{
+    font-family: outfit;
+}
+
+#First-text{
+    font-size: x-large;
+    font-weight: 650;
+    color: hsl(24, 5%, 18%);
+}
+
+#Second-text{
+    color: hsl(24, 5%, 18%);
+}
+
+
+
+
